@@ -1,39 +1,25 @@
 # Router Gateway Access Checker
 
-## Overview
-
-This Python script checks for access to router gateways on a local network. It attempts to connect to known default gateway IP addresses and common router IP addresses to verify connectivity.
+This application checks for access to router gateways on a local network by attempting to connect to known default gateway IP addresses and common router IP addresses, verifying connectivity.
 
 ## Features
 
-- Detects default gateway IPs based on the operating system.
-- Checks common router IP addresses for accessibility.
-- Logs connection attempts and results.
-- Provides a simple graphical user interface (GUI) for interaction.
+- Automatically detects default gateway IPs based on the operating system.
+- Checks accessibility of common router IP addresses.
+- Logs each connection attempt and the results.
+- Features a simple graphical user interface (GUI) for easy interaction.
 
-## Usage
+## Getting Started
 
-### Running the compiled executable:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-1. Download the compiled executable from the releases section of the GitHub repository.
-2. Double-click the executable file `rac.exe`.
-3. The GUI will open, and the script will automatically start scanning for router IPs.
-4. Results will be displayed in the GUI and logged.
+### Prerequisites
 
-### Running the Python script:
+For running the executable:
+- A Windows operating system is required for the compiled executable.
 
-1. Clone or download the repository to your local machine.
-2. Make sure you have Python installed.
-3. Install the required Python packages by running: `pip install -r requirements.txt`
-4. Run the script: `python rac.py`
-5. The script will attempt to connect to known router IPs. Results will be displayed in the GUI and logged.
-
-## Requirements for running on Python
-
+For running the script:
 - Python 3.x
-- Required Python packages: `tkinter`, `requests`, `webbrowser`, `pyperclip`
-- For the compiled executable: Windows operating system
-
-
-
-
+- Required Python packages (tkinter, requests, webbrowser, pyperclip). These can be installed via pip:
+  ```bash
+  pip install -r requirements.txt
