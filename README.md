@@ -8,13 +8,13 @@ This repository contains a collection of small tools and scripts designed to per
 
 The Router Access Checker (RAC) is a Python application that checks for access to router gateways on a local network. It attempts to connect to known default gateway IP addresses and common router IP addresses to verify connectivity.
 
-- **[Go to Router Access Checker](Random-Tools/RAC/)**
+- **[Go to Router Access Checker](RAC/)**
 
 ### 2. Wi-Fi Password Viewer (WPV)
 
 The Wi-Fi Password Viewer (WPV) is a tool designed to retrieve and display all saved Wi-Fi passwords stored on a Windows machine. It provides a simple graphical user interface for easy interaction.
 
-- **[Go to Wi-Fi Password Viewer](Random-Tools/WPV/)**
+- **[Go to Wi-Fi Password Viewer](WPV/)**
 
 ## Getting Started
 
