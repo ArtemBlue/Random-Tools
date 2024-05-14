@@ -3,7 +3,7 @@
 This repository contains a collection of small tools and scripts designed to perform specific tasks efficiently. Each tool is stored in its own directory, complete with its own README for detailed instructions.
 
 ## Tools
-### Executable Version**: Download the latest executable from the [releases section](https://github.com/Random-Tools/RAC/releases).
+### Executable Version: Download the latest executable from the [releases section](https://github.com/Random-Tools/RAC/releases).
 
 ### 1. Router Access Checker (RAC)
 
