@@ -32,29 +32,4 @@ The Windows Feature Manager (WFM) allows users to manage and configure various W
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-For running the executable:
-- No prerequisites needed, just the executable.
-
-For running the script:
-- Python 3.6 or higher
-- `tkinter` library (usually comes with Python)
-- Windows OS (as it uses Windows commands)
-
-### Installing
-
-#### For the Executable
-
-1. Download the `WindowsFeatureManager.exe` from the releases section.
-2. Double-click the executable to run.
-
-#### For the Script
-
-1. Clone this repository or download `WFM.py` directly.
-2. Ensure Python and `tkinter` are installed on your system.
-3. Run the script using a command prompt or terminal:
-   ```bash
-   python WFM.py
+To get started with any of the tools in this repository, navigate to the tool's directory and refer to the `README.md` file in each directory for detailed information on prerequisites, installation, and usage.
