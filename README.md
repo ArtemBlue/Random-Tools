@@ -27,16 +27,8 @@ The Wi-Fi Adapter Tuner (WAT) is an application that configures advanced propert
 ### 4. Windows Feature Manager (WFM)
 
 The Windows Feature Manager (WFM) allows users to manage and configure various Windows features, such as Co-Pilot, Cortana, and Web Search. It is available in two formats:
-1. A standalone executable file for users who do not want to run the Python script manually.
-2. A Python script for those who prefer to execute the script or modify it.
 
 - **[Go to Windows Feature Manager](WFM/)**
-
-## Features
-
-- Enable or disable Windows Co-Pilot, Cortana, and Web Search features.
-- Easy-to-use graphical user interface.
-- Detailed logging of actions performed.
 
 ## Getting Started
 
