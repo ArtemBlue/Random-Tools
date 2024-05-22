@@ -12,6 +12,8 @@ This application configures advanced properties for Wi-Fi adapters and adjusts T
 - Easy-to-use graphical user interface.
 - Option to copy log details to the clipboard.
 
+### Developed for AX200/AX210 Wi-Fi cards. May not work for cards that do not have the required properties.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
