@@ -1,6 +1,6 @@
 # Wi-Fi Adapter Tuner
 
-This application configures advanced properties for Wi-Fi adapters and adjusts TCP parameters on a Windows system. It is available in two formats:
+This application configures advanced properties for Wi-Fi adapters and adjusts TCP parameters on a Windows system to optimize network performance. It is available in two formats:
 1. A standalone executable file for users who do not want to run the Python script manually.
 2. A Python script for those who prefer to execute the script or modify it.
 
