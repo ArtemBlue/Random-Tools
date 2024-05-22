@@ -17,6 +17,12 @@ The Wi-Fi Password Viewer (WPV) is a tool designed to retrieve and display all s
 
 - **[Go to Wi-Fi Password Viewer](WPV/)**
 
+### 3. Wi-Fi Adapter Tuner (WAT)
+
+The Wi-Fi Adapter Tuner (WAT) is an application that configures advanced properties for Wi-Fi adapters and adjusts TCP parameters on a Windows system. It provides a user-friendly graphical interface to manage network settings effectively.
+
+- **[Go to Wi-Fi Adapter Tuner](WAT/)**
+
 ## Getting Started
 
 To get started with any of the tools in this repository, navigate to the tool's directory and refer to the `README.md` file in each directory for detailed information on prerequisites, installation, and usage.
