@@ -39,4 +39,4 @@ For running the script:
 2. Ensure Python and `tkinter` are installed on your system.
 3. Run the script using a command prompt or terminal:
    ```bash
-   python tune.py
+   python wat.py
