@@ -30,6 +30,12 @@ The Windows Feature Manager (WFM) allows users to manage and configure various W
 
 - **[Go to Windows Feature Manager](WFM/)**
 
+### 5. Discord Feature Manager (DFM)
+
+The Discord Feature Manager (DFM) is an application that manages specific features of Discord by modifying the `settings.json` file. It provides a user-friendly graphical interface and is available in both executable and script formats.
+
+- **[Go to Discord Feature Manager](DFM/)**
+
 ## Getting Started
 
 To get started with any of the tools in this repository, navigate to the tool's directory and refer to the `README.md` file in each directory for detailed information on prerequisites, installation, and usage.
